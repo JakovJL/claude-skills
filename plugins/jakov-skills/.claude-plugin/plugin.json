@@ -1,0 +1,12 @@
+{
+  "name": "jakov-skills",
+  "description": "Load-test report writing: short and full reports, per-user metrics, persistence and interference checks, Google Docs publishing.",
+  "author": {
+    "name": "JakovJL",
+    "url": "https://github.com/JakovJL"
+  },
+  "homepage": "https://github.com/JakovJL/claude-skills",
+  "repository": "https://github.com/JakovJL/claude-skills",
+  "license": "MIT",
+  "keywords": ["load-testing", "performance-testing", "gatling", "reporting", "google-docs"]
+}

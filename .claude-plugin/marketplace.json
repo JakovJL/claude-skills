@@ -1,0 +1,17 @@
+{
+  "name": "jakov-claude-skills",
+  "owner": {
+    "name": "JakovJL",
+    "url": "https://github.com/JakovJL"
+  },
+  "description": "Personal Claude Code skills: load-test reporting.",
+  "plugins": [
+    {
+      "name": "jakov-skills",
+      "source": "./plugins/jakov-skills",
+      "description": "Load-test report writing: short and full reports, per-user metrics, persistence and interference checks, Google Docs publishing.",
+      "category": "productivity",
+      "tags": ["load-testing", "performance-testing", "reporting", "google-docs"]
+    }
+  ]
+}
