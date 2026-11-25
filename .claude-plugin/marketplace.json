@@ -4,14 +4,20 @@
     "name": "JakovJL",
     "url": "https://github.com/JakovJL"
   },
-  "description": "Personal Claude Code skills: load-test reporting.",
+  "description": "Reusable QA, evidence, engineering and media workflows.",
   "plugins": [
     {
       "name": "jakov-skills",
       "source": "./plugins/jakov-skills",
-      "description": "Load-test report writing: short and full reports, per-user metrics, persistence and interference checks, Google Docs publishing.",
+      "description": "QA, API evidence, performance planning/reporting, meeting extraction, media, release verification and engineering diagnostics.",
       "category": "productivity",
-      "tags": ["load-testing", "performance-testing", "reporting", "google-docs"]
+      "tags": [
+        "qa",
+        "evidence",
+        "performance-testing",
+        "engineering",
+        "media"
+      ]
     }
   ]
 }
